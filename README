@@ -1,0 +1,8 @@
+The script is pretty bare-bones and breaks a lot of Unix conventions.
+
+To use: 
+  1) edit "AutoStar.sh" and add your usename and password.
+  2) Edit the "User to Star goes here" to have the name of the user you'd like to star
+  3) Set the script on a timer. I used Lingon (http://sourceforge.net/projects/lingon/files/) to administer mine.
+  
+This is a bare-bones, barely works solution. I'll be contributing updates off and on.
