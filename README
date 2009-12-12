@@ -1,4 +1,4 @@
-The script is pretty bare-bones and breaks a lot of Unix conventions.
+The script is pretty bare-bones and probably breaks a lot of Unix conventions.
 
 To use: 
   1) edit "AutoStar.sh" and add your usename and password.
